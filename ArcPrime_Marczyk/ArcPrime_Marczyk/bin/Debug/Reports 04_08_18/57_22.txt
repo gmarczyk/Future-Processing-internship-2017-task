@@ -1,0 +1,880 @@
+Report created on: 4/8/2017 18:57:22, by ArcPrime_Marczyk
+Email: MarczykG@gmail.com
+Token: 7A92B8815CDC8C1947EBA7E86DEDC455
+
+========================================================================
+
+Turn: [1.0] Action performed: [Restart ]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [0.0]
+
+State of archology: 
+   - Food quantity:       32.0
+   - Food capacity:       44.0
+   - Waste:               7.0
+   - Social capital:      75.0
+   - Production:          100.0
+   - Arcology integrity:  32.0
+   - Population:          32.0
+   - Population capacity: 41.0
+
+Resulted in events: 
+   - SimulationStarted
+
+Neho runes: 
+
+========================================================================
+
+Turn: [2.0] Action performed: [ExpandFoodCapacity 136]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [0.0]
+
+State of archology: 
+   - Food quantity:       25.3
+   - Food capacity:       180.0
+   - Waste:               10.75
+   - Social capital:      75.0
+   - Production:          75.0
+   - Arcology integrity:  32.0
+   - Population:          32.0
+   - Population capacity: 41.0
+
+Resulted in events: 
+   - ProductionChanged
+   - FoodCapacityChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[DH]
+[DH]
+[DH]
+[NN]
+[NN]
+[DH]
+[NN]
+
+========================================================================
+
+Turn: [3.0] Action performed: [ExpandPopulationCapacity 111]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [0.0]
+
+State of archology: 
+   - Food quantity:       16.725
+   - Food capacity:       180.0
+   - Waste:               13.25
+   - Social capital:      75.0
+   - Production:          50.0
+   - Arcology integrity:  32.0
+   - Population:          32.0
+   - Population capacity: 152.0
+
+Resulted in events: 
+   - ProductionChanged
+   - PopulationCapacityChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[DH]
+[DH]
+[NN]
+[NN]
+[DH]
+[DH]
+[NN]
+
+========================================================================
+
+Turn: [4.0] Action performed: [BuildArcology 168]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [500.0]
+
+State of archology: 
+   - Food quantity:       6.900
+   - Food capacity:       180.0
+   - Waste:               14.00
+   - Social capital:      75.0
+   - Production:          15.0
+   - Arcology integrity:  200.0
+   - Population:          32.0
+   - Population capacity: 152.0
+
+Resulted in events: 
+   - ProductionChanged
+   - ArcologyStableAndFunctioning
+   - ArcologyIntegrityChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[DE]
+[DH]
+[OH]
+[OH]
+[NN]
+[DH]
+[NN]
+
+========================================================================
+
+Turn: [5.0] Action performed: [Clean 15]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [600.0]
+
+State of archology: 
+   - Food quantity:       3.700
+   - Food capacity:       180.0
+   - Waste:               0.375
+   - Social capital:      88.0
+   - Production:          7.5
+   - Arcology integrity:  200.0
+   - Population:          32.0
+   - Population capacity: 152.0
+
+Resulted in events: 
+   - WasteChanged
+   - CleanArcology
+   - SocialCapitalChanged
+   - SocialCapitalChanged
+   - ProductionChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[DE]
+[DH]
+[OH]
+[OH]
+[NN]
+[OH]
+[NN]
+
+========================================================================
+
+Turn: [6.0] Action performed: [ImportFood 176]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [600.0]
+
+State of archology: 
+   - Food quantity:       176.3125
+   - Food capacity:       180.0
+   - Waste:               0.750
+   - Social capital:      89.0
+   - Production:          7.5
+   - Arcology integrity:  200.0
+   - Population:          32.0
+   - Population capacity: 152.0
+
+Resulted in events: 
+   - FoodQuantityChanged
+   - SocialCapitalChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[OH]
+[DH]
+[OH]
+[OH]
+[NN]
+[OH]
+[NN]
+
+========================================================================
+
+Turn: [7.0] Action performed: [WeAreReady 108]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [600.0]
+
+State of archology: 
+   - Food quantity:       134.9375
+   - Food capacity:       180.0
+   - Waste:               1.125
+   - Social capital:      50.0
+   - Production:          7.5
+   - Arcology integrity:  200.0
+   - Population:          140.0
+   - Population capacity: 152.0
+
+Resulted in events: 
+   - PopulationChanged
+   - SocialCapitalChanged
+   - FoodQuantityChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[DH]
+[DH]
+[OH]
+[OH]
+[NN]
+[DE]
+[DH]
+
+========================================================================
+
+Turn: [8.0] Action performed: [Propaganda 200]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [700.0]
+
+State of archology: 
+   - Food quantity:       99.3750
+   - Food capacity:       180.0
+   - Waste:               1.125
+   - Social capital:      83.0
+   - Production:          0.0
+   - Arcology integrity:  200.0
+   - Population:          150.0
+   - Population capacity: 152.0
+
+Resulted in events: 
+   - SocialCapitalChanged
+   - ProductionChanged
+   - FoodQuantityChanged
+   - PopulationChanged
+   - GloryForTheLeader
+   - SocialCapitalChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[NN]
+[DH]
+[OH]
+[OH]
+[NN]
+[OH]
+[OH]
+
+========================================================================
+
+Turn: [9.0] Action performed: [Produce 200]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [700.0]
+
+State of archology: 
+   - Food quantity:       77.4950
+   - Food capacity:       180.0
+   - Waste:               20.0775
+   - Social capital:      78.0
+   - Production:          126.350
+   - Arcology integrity:  200.0
+   - Population:          150.0
+   - Population capacity: 152.0
+
+Resulted in events: 
+   - ProductionChanged
+   - WasteChanged
+   - SocialCapitalChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[NN]
+[DE]
+[OH]
+[OH]
+[NN]
+[DH]
+[OH]
+
+========================================================================
+
+Turn: [10.0] Action performed: [Produce 200]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [700.0]
+
+State of archology: 
+   - Food quantity:       40.05875
+   - Food capacity:       180.0
+   - Waste:               54.8725
+   - Social capital:      73.0
+   - Production:          200.0
+   - Arcology integrity:  200.0
+   - Population:          150.0
+   - Population capacity: 152.0
+
+Resulted in events: 
+   - ProductionChanged
+   - WasteChanged
+   - SocialCapitalChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[NN]
+[NN]
+[OH]
+[OH]
+[OH]
+[DH]
+[OH]
+
+========================================================================
+
+Turn: [11.0] Action performed: [Clean 73]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [700.0]
+
+State of archology: 
+   - Food quantity:       25.05875
+   - Food capacity:       180.0
+   - Waste:               8.175
+   - Social capital:      76.0
+   - Production:          163.5
+   - Arcology integrity:  200.0
+   - Population:          150.0
+   - Population capacity: 152.0
+
+Resulted in events: 
+   - WasteChanged
+   - SocialCapitalChanged
+   - ProductionChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[NN]
+[DH]
+[OH]
+[OH]
+[DE]
+[DH]
+[OH]
+
+========================================================================
+
+Turn: [12.0] Action performed: [Propaganda 1]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [1200.0]
+
+State of archology: 
+   - Food quantity:       5.86625
+   - Food capacity:       180.0
+   - Waste:               16.345
+   - Social capital:      80.4142135623731
+   - Production:          163.4
+   - Arcology integrity:  200.0
+   - Population:          150.05
+   - Population capacity: 152.0
+
+Resulted in events: 
+   - SocialCapitalChanged
+   - BestLeaderEver
+   - ProductionChanged
+   - FoodQuantityChanged
+   - PopulationChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[NN]
+[DH]
+[OH]
+[OH]
+[DE]
+[OH]
+[OH]
+
+========================================================================
+
+Turn: [13.0] Action performed: [ImportFood 174]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [1200.0]
+
+State of archology: 
+   - Food quantity:       156.68875
+   - Food capacity:       180.0
+   - Waste:               24.515
+   - Social capital:      81.4142135623731
+   - Production:          163.4
+   - Arcology integrity:  200.0
+   - Population:          150.05
+   - Population capacity: 152.0
+
+Resulted in events: 
+   - FoodQuantityChanged
+   - SocialCapitalChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[OH]
+[DE]
+[OH]
+[OH]
+[DE]
+[OH]
+[OH]
+
+========================================================================
+
+Turn: [14.0] Action performed: [Clean 200]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [1200.0]
+
+State of archology: 
+   - Food quantity:       141.68375
+   - Food capacity:       180.0
+   - Waste:               3.17
+   - Social capital:      84.4142135623731
+   - Production:          63.4
+   - Arcology integrity:  200.0
+   - Population:          150.05
+   - Population capacity: 152.0
+
+Resulted in events: 
+   - WasteChanged
+   - SocialCapitalChanged
+   - ProductionChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[DH]
+[DH]
+[OH]
+[OH]
+[NN]
+[OH]
+[OH]
+
+========================================================================
+
+Turn: [15.0] Action performed: [ExpandPopulationCapacity 1]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [1450.0]
+
+State of archology: 
+   - Food quantity:       125.09375
+   - Food capacity:       180.0
+   - Waste:               5.09
+   - Social capital:      84.4142135623731
+   - Production:          38.4
+   - Arcology integrity:  200.0
+   - Population:          150.05
+   - Population capacity: 153.0
+
+Resulted in events: 
+   - ProductionChanged
+   - PopulationCapacityChanged
+   - FoodQuantityChanged
+   - WasteChanged
+   - SurvivedTheEarthquake
+
+Neho runes: 
+[DE]
+[DH]
+[OH]
+[OH]
+[NN]
+[OH]
+[OH]
+
+========================================================================
+
+Turn: [16.0] Action performed: [Propaganda 1]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [1450.0]
+
+State of archology: 
+   - Food quantity:       107.43875
+   - Food capacity:       180.0
+   - Waste:               7.005
+   - Social capital:      88.8284271247462
+   - Production:          38.3
+   - Arcology integrity:  200.0
+   - Population:          150.10
+   - Population capacity: 153.0
+
+Resulted in events: 
+   - SocialCapitalChanged
+   - ProductionChanged
+   - FoodQuantityChanged
+   - PopulationChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[NN]
+[DH]
+[OH]
+[OH]
+[NN]
+[OH]
+[OH]
+
+========================================================================
+
+Turn: [17.0] Action performed: [Produce 1]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [1450.0]
+
+State of archology: 
+   - Food quantity:       80.413429000896436845
+   - Food capacity:       180.0
+   - Waste:               32.543462997310689465
+   - Social capital:      83.8284271247462
+   - Production:          170.25641998207126310
+   - Arcology integrity:  200.0
+   - Population:          150.10
+   - Population capacity: 153.0
+
+Resulted in events: 
+   - ProductionChanged
+   - WasteChanged
+   - SocialCapitalChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[NN]
+[DE]
+[OH]
+[OH]
+[DE]
+[OH]
+[OH]
+
+========================================================================
+
+Turn: [18.0] Action performed: [Clean 200]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [1450.0]
+
+State of archology: 
+   - Food quantity:       65.403429000896436845
+   - Food capacity:       180.0
+   - Waste:               3.512820999103563155
+   - Social capital:      86.8284271247462
+   - Production:          70.25641998207126310
+   - Arcology integrity:  200.0
+   - Population:          150.10
+   - Population capacity: 153.0
+
+Resulted in events: 
+   - WasteChanged
+   - SocialCapitalChanged
+   - ProductionChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[NN]
+[DH]
+[OH]
+[OH]
+[NN]
+[OH]
+[OH]
+
+========================================================================
+
+Turn: [19.0] Action performed: [Produce 200]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [1450.0]
+
+State of archology: 
+   - Food quantity:       38.6214265031375289575
+   - Food capacity:       180.0
+   - Waste:               33.544004995517815775
+   - Social capital:      81.8284271247462
+   - Production:          200.0
+   - Arcology integrity:  200.0
+   - Population:          150.10
+   - Population capacity: 153.0
+
+Resulted in events: 
+   - ProductionChanged
+   - WasteChanged
+   - SocialCapitalChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[NN]
+[DE]
+[OH]
+[OH]
+[OH]
+[OH]
+[OH]
+
+========================================================================
+
+Turn: [20.0] Action performed: [Clean 35]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [1450.0]
+
+State of archology: 
+   - Food quantity:       23.6114265031375289575
+   - Food capacity:       180.0
+   - Waste:               9.125
+   - Social capital:      84.8284271247462
+   - Production:          182.5
+   - Arcology integrity:  200.0
+   - Population:          150.10
+   - Population capacity: 153.0
+
+Resulted in events: 
+   - WasteChanged
+   - SocialCapitalChanged
+   - ProductionChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[NN]
+[DH]
+[OH]
+[OH]
+[DH]
+[OH]
+[OH]
+
+========================================================================
+
+Turn: [21.0] Action performed: [ImportFood 156]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [1450.0]
+
+State of archology: 
+   - Food quantity:       160.0389265031375289575
+   - Food capacity:       180.0
+   - Waste:               18.250
+   - Social capital:      85.8284271247462
+   - Production:          182.5
+   - Arcology integrity:  200.0
+   - Population:          150.10
+   - Population capacity: 153.0
+
+Resulted in events: 
+   - FoodQuantityChanged
+   - SocialCapitalChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[OH]
+[DH]
+[OH]
+[OH]
+[DH]
+[OH]
+[OH]
+
+========================================================================
+
+Turn: [22.0] Action performed: [Clean 19]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [1450.0]
+
+State of archology: 
+   - Food quantity:       145.0289265031375289575
+   - Food capacity:       180.0
+   - Waste:               8.65
+   - Social capital:      88.8284271247462
+   - Production:          173.0
+   - Arcology integrity:  200.0
+   - Population:          150.10
+   - Population capacity: 153.0
+
+Resulted in events: 
+   - WasteChanged
+   - SocialCapitalChanged
+   - ProductionChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[DH]
+[DH]
+[OH]
+[OH]
+[DE]
+[OH]
+[OH]
+
+========================================================================
+
+Turn: [23.0] Action performed: [Propaganda 1]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [1550.0]
+
+State of archology: 
+   - Food quantity:       125.5889265031375289575
+   - Food capacity:       190.0
+   - Waste:               18.295
+   - Social capital:      93.2426406871193
+   - Production:          192.9
+   - Arcology integrity:  200.0
+   - Population:          150.15
+   - Population capacity: 163.0
+
+Resulted in events: 
+   - SocialCapitalChanged
+   - SuperMotivated
+   - FoodCapacityChanged
+   - PopulationCapacityChanged
+   - ArcologyIntegrityChanged
+   - PopulationChanged
+   - ProductionChanged
+   - FoodQuantityChanged
+   - PopulationChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[DE]
+[DH]
+[OH]
+[OH]
+[DH]
+[OH]
+[OH]
+
+========================================================================
+
+Turn: [24.0] Action performed: [Clean 25]
+IsTerminated: [False] Should restart: [Not yet, but be aware]
+
+Total score:       [0.0]
+Experiment score:  [0.0]
+Event score:       [1550.0]
+
+State of archology: 
+   - Food quantity:       110.5739265031375289575
+   - Food capacity:       190.0
+   - Waste:               9.02
+   - Social capital:      96.2426406871193
+   - Production:          180.4
+   - Arcology integrity:  200.0
+   - Population:          150.15
+   - Population capacity: 163.0
+
+Resulted in events: 
+   - WasteChanged
+   - SocialCapitalChanged
+   - ProductionChanged
+   - FoodQuantityChanged
+   - WasteChanged
+
+Neho runes: 
+[DE]
+[DH]
+[OH]
+[OH]
+[DH]
+[OH]
+[OH]
+
+========================================================================
+
+Turn: [25.0] Action performed: [ImportFood 80]
+IsTerminated: [True] Should restart: [Perhaps, no idea]
+
+Total score:       [40850.0]
+Experiment score:  [19600.0]
+Event score:       [21250.0]
+
+State of archology: 
+   - Food quantity:       170.18803674843123552125
+   - Food capacity:       190.0
+   - Waste:               18.6139265031375289575
+   - Social capital:      87.2426406871193
+   - Production:          180.4
+   - Arcology integrity:  200.0
+   - Population:          150.15
+   - Population capacity: 163.0
+
+Resulted in events: 
+   - FoodQuantityChanged
+   - FoodWasted
+   - SocialCapitalChanged
+   - WasteChanged
+   - SocialCapitalChanged
+   - FoodQuantityChanged
+   - WasteChanged
+   - EndOfSimulation
+
+Neho runes: 
+[OH]
+[DH]
+[OH]
+[OH]
+[DH]
+[OH]
+[OH]
+

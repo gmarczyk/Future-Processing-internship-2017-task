@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcPrime_Marczyk", "ArcPrime_Marczyk\ArcPrime_Marczyk.csproj", "{290B8D0B-C726-4BB5-85A2-ADACC611A052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcPrime_Marczyk.Test", "ArcPrime_Marczyk.Test\ArcPrime_Marczyk.Test.csproj", "{E0E74138-F92B-4344-B77B-913DD8F42032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{290B8D0B-C726-4BB5-85A2-ADACC611A052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290B8D0B-C726-4BB5-85A2-ADACC611A052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290B8D0B-C726-4BB5-85A2-ADACC611A052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290B8D0B-C726-4BB5-85A2-ADACC611A052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0E74138-F92B-4344-B77B-913DD8F42032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E74138-F92B-4344-B77B-913DD8F42032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E74138-F92B-4344-B77B-913DD8F42032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E74138-F92B-4344-B77B-913DD8F42032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

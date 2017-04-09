@@ -1,0 +1,38 @@
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\ArcPrime_Marczyk.Test.dll
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\ArcPrime_Marczyk.Test.pdb
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\ArcPrime_Marczyk.exe
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\RestSharp.dll
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\ArcPrime_Marczyk.pdb
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\ArcPrime_Marczyk.exe.config
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\RestSharp.xml
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\obj\Debug\ArcPrime_Marczyk.Test.csprojResolveAssemblyReference.cache
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\obj\Debug\ArcPrime_Marczyk.Test.dll
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\obj\Debug\ArcPrime_Marczyk.Test.pdb
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\ArcPrime_Marczyk.Test.dll
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\ArcPrime_Marczyk.Test.pdb
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\ArcPrime_Marczyk.exe
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\RestSharp.dll
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Newtonsoft.Json.dll
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\ArcPrime_Marczyk.pdb
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\ArcPrime_Marczyk.exe.config
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\RestSharp.xml
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\bin\Debug\Newtonsoft.Json.xml
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\obj\Debug\ArcPrime_Marczyk.Test.csprojResolveAssemblyReference.cache
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\obj\Debug\ArcPrime_Marczyk.Test.dll
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk.Test\obj\Debug\ArcPrime_Marczyk.Test.pdb

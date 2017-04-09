@@ -1,0 +1,26 @@
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk\bin\Debug\ArcPrime_Marczyk.exe.config
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk\bin\Debug\ArcPrime_Marczyk.exe
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk\bin\Debug\ArcPrime_Marczyk.pdb
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk\bin\Debug\RestSharp.dll
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk\bin\Debug\RestSharp.xml
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk\obj\Debug\ArcPrime_Marczyk.Properties.Resources.resources
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk\obj\Debug\ArcPrime_Marczyk.View.MainView.resources
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk\obj\Debug\ArcPrime_Marczyk.csproj.GenerateResource.Cache
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk\obj\Debug\ArcPrime_Marczyk.exe
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk\obj\Debug\ArcPrime_Marczyk.pdb
+C:\Users\MarczykPC\Documents\Visual Studio 2017\Projects\ArcPrime_Marczyk\ArcPrime_Marczyk\obj\Debug\ArcPrime_Marczyk.csprojResolveAssemblyReference.cache
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk\bin\Debug\ArcPrime_Marczyk.exe.config
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk\bin\Debug\ArcPrime_Marczyk.exe
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk\bin\Debug\ArcPrime_Marczyk.pdb
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk\bin\Debug\Newtonsoft.Json.dll
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk\bin\Debug\RestSharp.dll
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk\bin\Debug\Newtonsoft.Json.xml
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk\bin\Debug\RestSharp.xml
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk\obj\Debug\ArcPrime_Marczyk.csprojResolveAssemblyReference.cache
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk\obj\Debug\ArcPrime_Marczyk.Properties.Resources.resources
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk\obj\Debug\ArcPrime_Marczyk.View.MainView.resources
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk\obj\Debug\ArcPrime_Marczyk.csproj.GenerateResource.Cache
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk\obj\Debug\ArcPrime_Marczyk.exe
+D:\Reszta\Inne\ArcPrime_Marczyk\ArcPrime_Marczyk\obj\Debug\ArcPrime_Marczyk.pdb
