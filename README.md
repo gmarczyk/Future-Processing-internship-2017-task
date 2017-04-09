@@ -2,7 +2,7 @@
 
 <b>IMPORTANT!</b>
 
-<b>Some informations are confidential</b>. This application and files in this repository are changed in order to keep these informations safe.
+<b>Some informations are confidential</b>. This application and files in this repository are changed in order to keep those informations safe.
 This application won't work properly! It requires unique account to use the server.
 Also, the server won't be running infinitely.
 
